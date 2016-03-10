@@ -1,5 +1,5 @@
 # Storyboard
-Storyboard 之团队开发
+Storyboard of the team cooperation
 
 # Usage
 See the Demo
